@@ -1,7 +1,7 @@
 # parcel-demo
 Zero configuartion web application bundler
 development mode
-npm start 
+# npm start 
 production mode
-npm run build
+# npm run build
 # https://www.npmjs.com/package/parcel-bundler
