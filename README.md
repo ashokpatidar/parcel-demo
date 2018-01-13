@@ -1,5 +1,5 @@
 # parcel-demo
-Zero configuartion web application bundler
+Zero configuartion web application bundler sample application demo
 #
 development mode
 # npm start 
